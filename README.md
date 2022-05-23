@@ -1,11 +1,7 @@
-## About me
+## sobre mim 🥀
 
-- 👋 Hi, I’m @debsz0
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning nothing.
-- 💞️ I’m looking to collaborate on nobody :(
-- 📫 How to reach me: nobody know... im just kidding.
-
+🫀 eu sou a @debs0
+🃏 e este é o meu perfil.
 
 <!---
 debsz0/debsz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
